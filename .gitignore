@@ -1,0 +1,6 @@
+Out/**
+**/obj/**
+**/bin/**
+.vs/**
+packages/**
+Start-Debug.psd1
